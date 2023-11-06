@@ -27,7 +27,7 @@ import base64
 # Initial page config
 
 st.set_page_config(
-     page_title='Streamlit cheat sheet',
+     page_title='Streamlit cheat sheet customized by Grummg4r !!!',
      layout="wide",
      initial_sidebar_state="expanded",
 )
